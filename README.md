@@ -27,6 +27,7 @@ For installation instructions, see the [Confluence setup](https://confluence.hl7
 You can clone the repository to your computer:
 
 `git clone https://github.com/hl7au/sample-ig.git`
+
 `cd sample-ig`
 
 Alternatively, you can fork the repository to your own GitHub account and clone your fork.
@@ -40,11 +41,13 @@ From the repository directory, download or update the IG Publisher using the sup
 Windows:
 
 `_updatePublisher.bat`
+
 `_genonce.bat`
 
 macOS/Linux:
 
 `./_updatePublisher.sh`
+
 `./_genonce.sh`
 
 The first build may take several minutes while the Publisher downloads the required packages and dependencies.
