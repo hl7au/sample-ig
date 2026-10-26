@@ -10,6 +10,7 @@ This is a sample for learning and development, not an implementation specificati
 To work with the sample IG, you will need to install the required tools, download the repository and build the IG locally.
 
 **1. Install the required tools**
+
 Before building the sample IG, make sure you have:
 
 - Java JDK (64-bit, minimum Java 11) – runs the IG Publisher.
