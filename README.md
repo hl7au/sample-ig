@@ -13,10 +13,10 @@ To work with the sample IG, you will need to install the required tools, downloa
 
 Before building the sample IG, make sure you have:
 
-- Java JDK (64-bit, minimum Java 11) – runs the IG Publisher.
-- Git – downloads the repository and tracks changes.
-- Ruby and Jekyll – generate the IG website.
-- A text editor – such as Visual Studio Code, for editing the IG files.
+- **Java JDK (64-bit, minimum Java 11)** - runs the IG Publisher.
+- **Git** - downloads the repository and tracks changes.
+- **Ruby and Jekyll** - generate the IG website.
+- **A text editor** - such as Visual Studio Code, for editing the IG files.
 
 SUSHI is not required for this sample IG, as the FHIR artefacts are authored in XML or JSON rather than FHIR Shorthand (FSH).
 
