@@ -106,7 +106,7 @@ Do not retain the sample IG's canonical URL or package ID when creating a new IG
 - [FHIR Implementation Guide resource](https://hl7.org/fhir/R4/implementationguide.html)
 - [FHIR IG Publisher documentation](https://confluence.hl7.org/spaces/FHIR/pages/35718627/IG+Publisher+Documentation)
 - [Guidance for FHIR IG Creation](https://build.fhir.org/ig/FHIR/ig-guidance/)
-- [HL7 Australia GitHub organisation](https://github.com/hl7au)
+- [HL7 Australia GitHub](https://github.com/hl7au)
 - [FHIR chat - Zulip](https://chat.fhir.org/)
 
 ## Feedback and issues
