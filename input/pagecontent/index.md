@@ -14,7 +14,6 @@ Insert purpose and scope of MyDraftIG here.
 {% include expansion-params.xhtml %}
 
 ### How to Read this Guide
-
 This guide is divided into several pages which are listed at the top of each page in the menu bar.
 
 - [Home](index.html): This page provides the introduction and scope for this guide.
@@ -27,11 +26,3 @@ This guide is divided into several pages which are listed at the top of each pag
 - [Support](support.html): These pages provide supporting material for implementation of TBD (e.g. AU Core).  
   - [Downloads](downloads.html): This page provides links to downloadable artefacts.
   - [License and Legal](license.html): This page outlines the license and legal requirements for material in TBD (e.g. AU Core).
-
-### Collaboration
-This guide is the product of collaborative work undertaken with participants from:
-
-* TBD
-
-Primary Editors: TBD.
-
